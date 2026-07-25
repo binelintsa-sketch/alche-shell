@@ -1,0 +1,5 @@
+[main 46e2b6b] switch user to betty
+ 3 files changed, 4 insertions(+)
+ create mode 100755 permissions/0-iam_betty
+ create mode 100644 permissions/README.md
+ create mode 100644 permissions/permissions
