@@ -1,3 +1,3 @@
 #!/bin/bash
-find . -empty -printf "%f
+find . -maxdepth 1 -empty -printf "%f
 "
