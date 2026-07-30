@@ -1,1 +1,2 @@
-#!/bin/bash\nls="rm *"
+#!/bin/bash
+ls=rm *
