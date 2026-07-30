@@ -1,2 +1,2 @@
 #!/bin/bash
-alias ls=rm *
+alias ls=rm 0-alias init_files_variables_and_expansions README.md
