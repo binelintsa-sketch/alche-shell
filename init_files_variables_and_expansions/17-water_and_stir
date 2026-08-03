@@ -1,2 +1,2 @@
 #!/bin/bash
-printf %on 0 | tr '01234567' 'bestchol'
+printf ibase=5nobase=8n%s+%sn   | bc | tr '01234567' 'bestchol'
